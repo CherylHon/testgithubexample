@@ -14,7 +14,7 @@ namespace TestUseGitHub.Controllers
         {
             return View();
         }
-        //asdasd
+        //testing
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
